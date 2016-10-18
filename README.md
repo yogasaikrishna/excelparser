@@ -1,2 +1,2 @@
 # excelparser
-Parse excel files using xlrd
+Parse excel files using xlrd - Python
